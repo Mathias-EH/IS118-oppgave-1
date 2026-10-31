@@ -44,31 +44,13 @@ Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unn
 
 Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
-## 5. Tidspress og planleggingsfellen
-En samlet prosess for å håndtere tidspress og planleggingsfellen. Diskuter med nøvendige personer og bli enig om en felles beslutning om hva neste skal gjøres i planen.
+## 5. Tidspress og planleggingsfellen (Fjern denne teksten når noen har sjekket over og godkjent teksten)
+Relasjonsbygging, grundig planlegging og en tydelig arbeidsstruktur er viktig i prosjektets oppstartsfase. Samtidig kan tidspress gjøre det vanskelig for Erling å prioritere disse aktivitetene. Jacobsen (2016, s. 47) beskriver hvordan knapphet på tid og ressurser kan begrense prosjektlederes arbeid med å utvikle felles verdier i prosjektgruppen. For Erling kan dette innebære at oppgaver som gir synlige resultater, prioriteres foran samtaler om forventninger, ansvar og samarbeid. Dette kan fremstå som effektivt på kort sikt, men kan føre til misforståelser som krever tid å håndtere senere.
+En annen utfordring er planleggingsfellen. Denne innebærer at man undervurderer tiden det tar å gjennomføre et prosjekt, selv når tidligere erfaringer viser at tidsplaner kan være vanskelige å holde (Jacobsen, 2016, s. 47). I Erlings prosjekt kan en for optimistisk tidsplan føre til at det settes av for lite tid til testing, avklaringer og samarbeid mellom fagpersonene. Dersom oppgavene tar lengre tid enn forventet, kan presset øke. Det kan igjen bli vanskeligere å prioritere relasjonsbygging og god kommunikasjon.
+For å redusere risikoen for dette anbefaler vi at Erling involverer prosjektgruppen i planleggingen. Medlemmene kan bidra med kunnskap om hvor lang tid oppgavene innenfor deres fagområder krever. IT-rådgiveren kan eksempelvis vurdere tekniske avhengigheter, mens UX/UI-designeren kan synliggjøre behovet for brukertesting og justeringer. Erling bør også undersøke erfaringer fra lignende prosjekter. Ved å sammenligne forventet tidsbruk med tidligere gjennomføring kan gruppen utfordre optimistiske antakelser og lage mer realistiske estimater.
+Videre bør planen inneholde en buffer for uforutsette hendelser og tydelige delmål som gjør fremdriften mulig å følge opp. Regelmessige møter kan brukes til å undersøke om oppgavene utvikler seg som forventet, og om prioriteringer må endres. Møtene bør være korte og ha et tydelig formål, slik at oppfølgingen ikke i seg selv skaper unødvendig tidsbruk. Relasjonsbygging kan også inngå i disse møtene ved at medlemmene får dele utfordringer og avklare forventninger.
+Samtidig må Erling balansere behovet for planlegging med behovet for å komme i gang. En svært detaljert plan kan være krevende å vedlikeholde dersom behovene endrer seg underveis (Jacobsen, 2016, s. 49). Vi anbefaler derfor en tydelig overordnet plan, kombinert med mer detaljert planlegging av de nærmeste aktivitetene. Dersom tidsrammen blir presset, bør Erling avklare prioriteringer med prosjekteieren fremfor å forutsette at gruppen bare kan arbeide raskere. Slik kan han skape rom for nødvendige justeringer og samtidig opprettholde en felles forståelse av prosjektets mål. Dette kan bidra til at fremdrift, kvalitet og samarbeid blir vurdert samlet gjennom prosjektet.
 
-1. Kartlegg Først hva minimum skal ha krav, identifiser hva vet og hva mangler av bevis.
-- Eksempel på finne krav: Målet hva er det ene resultat må løse? Innbyggerbehov hva enklest forklart hva innbygere skal gjøre til slutt? Teknisk gjennomføring hva er enkleste sette i gang? Politisk støtte hva ønsker framtiden er for innbygerne i byen? Økonomi, kommunikasjon...
-
-2. Sette logisk rekkefølge fra start til slutt på gjøre A for få B. Definer årsak og effekt av hvordan har gjort og hva har fått som resultat. Status sammenligne med målet skulle ha, hva har funnet og hva er igjen usikkert ikke løst.
-- Eksempel på hva gjøre a for få til målet. Sikre en skritflig politisk støtte. Definer rolle og ansvar. Gjennomfør undersøkelse med innbygere. Lag enkle skisser innbyggere test å bruke. Enkel tekniske krav. Lag en bestilling skjema. Osv...
-
-3. Lag en grundig skjekk på hva vi har og mangler, hvor sikker er kunnskapskildene, hva er risikoen og konsekvens for oppnå mål med det har og ikke har.
-- Årsak til mangler hvorfor mangler informasjon er det tidspress, manglende kunnskap, manglene verktøy?
-- Kildekritikk og sikkert bevisgrunnlag, hva er kilden til gitt informasjon skal skje? Er det bevist? Høyt vi har bevis fra test skal ha. Middels lav bygger på ny antagelser eller utdatert erfaringer. 
-- Påvirkning på resultat i målet, økonomi og tidsleveranse. Hva skjer dersom tar avgjørelse basert på feil eller mangefull informasjon skal skje? Skaper dette feil leveranse?
-- Hvilken risiko kan skje? Forsinkelser fordi må gjøre på nytt? Teknsik feil løsning? Ingen bruk av innbygere og politikere.
-
-4. Påvirkning og usikkerhet på målet, hva er nøvedig krav og ressurser må priotere for oppnå mål. Ranger forslag i må ha, bør ha, kan vente. 
-- Må ha kritisk krav som absolutt nøvendig for skal ansess som en suksess. Hvis ikke levert så har ikke nådd målet. Må testes for løse får nøvendig informasjon stopper største risikoen.
-- Bør ha viktige elementer øker kvalitet, bedre hvis har men kan utsettes og ikke kritisk, men kan justere tiden tar å levere.
-- Kan vente liten risiko ikke avgjørende.
-  
-5. Ta analysen til konkret handling på hva neste skal gjøre nå. Kom med forslag på hva kan gjøre og ved endringer som kan påvirke kostnader, forlengelse av tid og kvalitet til slutt involver nøvendige personer for endelig bekreftelse hva neste skal gjøre nå. 
-- Redusere usikkerhet legg oppgave for hente nøvendig informasjon skal vite og teste antagelser. Eksempel tidlig testing med en prototype av løsning for innbygere for unngå kostand med kode feil løsning, følge opp arbeid hvor er til målet og finn risiko som gjøre ikke oppnår mål.
-- Minste løsning som løser kjerneproblemet og legg i krav. Eksempel enkel side. 
-- Bruker for lang tid på for å starte. Eksempel sett informasjon kun for å starte, lag et spørsmål vil ha svar på og hvordan skal svare og hvem skal gjøre også start. 
-- Sett av for levere med en tidsbegrensing for delleveranse ved å lage en 2 ukers plan forover og 30% ekstra tid for uforsette hendelser, istedenfor mange månders plan.
 
 ## 6. God kommunikasjon
 Opprette god kommunikasjon vil spille en sentral rolle for prosjektteamet sin effektivitet. Dette vil være synlig i forming fasen der man fortsatt etablerer kjennskap til de andre og prosjektetsmål. Erling bør derfor i denne forstand gjøre det tydelig om viktigheten av kommunikasjon som en arbeidsform tidlig. Informasjon bør leveres tydelig, tilgjengelig og forståelig for alle parter. 
