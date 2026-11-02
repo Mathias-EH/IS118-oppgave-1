@@ -34,7 +34,7 @@ Sist, men ikke minst bør kontrakten beskrive håndtering av endringer, ettersom
 For å oppsummere tror vi dette vil kunne bidra til et mer strukturert og forutsigbart samarbeid mellom Erling og prosjekteieren. Tydelig ansvar, gjensidige forventninger, faste møter og avtalte rutiner for endringer kan styrke tilliten, redusere misforståelser og være med på å skape en bedre relasjon mellom dem underveis i prosjektet. 
 
 ## 4. Konflikthåndtering
-Konflikter kan oppstå pågrunn av uengiheter i leveransen. Etabler faste møter for å diskutere leveransen sammen for sikre alle nøvendige personer er enig for sikre en felles besluttet leveranse. Del leveransen opp i flere mindre deler, hver delleveranse tildel et møte tidspunkt og inviter alle personer nøvendig for vurdere og godskjenne delleveranse. Etter møte dokumenter hva beslutning ble bekreftet ha med videre, send møte dokumentet til alle med i møte sikre er enig med beslutning før blir tatt med videre. 
+Konflikter kan oppstå på grunn av uengiheter i leveransen. Etabler faste møter for å diskutere leveransen sammen for sikre at alle nøvendige personer er enig om at det er en felles besluttning mot leveransen. Del leveransen opp i flere mindre deler, hvor hver delleveranse har et møte tidspunkt og inviter alle personer nøvendig for vurdere og godkjenne delleveranse. Etter møte dokumenter hva beslutning ble bekreftet ha med videre, send møte dokumentet til alle med i møte sikre er enig med beslutning før blir tatt med videre. 
 
 Definer en klar prosess for å håndtere uengiheter. Involverte håndteres med involverte først med fokus på fakta og målet i delleveransen. Hvis ikke klarer å håndtere konfliktet involveres støtte fra en mer erfaren person som kan hjelpe til å løse konflikter for bestemme endlig beslutning hva skal gjøres. 
 
@@ -44,7 +44,7 @@ Sikre en felles forståelse for hva skal gjøre, hvordan skal gjøres for å unn
 
 Hold en workshop for å øve på konflikhåndtering. I starten eller under prosjektet, lag en fiktiv konflikt med usikkerhet, uenigheter i. Workshop deltagere skal løse konflikten med komme med en beslutning. Gi hverandre kritikk slik deltagere kan ta i mot forslag på forbedring. Etterpå lag en tilbakemelding på hvordan jobbet, hvordan håndtere konflikten, hvordan gjøre neste gang.
 
-## 5. Tidspress og planleggingsfellen (Fjern denne teksten når noen har sjekket over og godkjent teksten)
+## 5. Tidspress og planleggingsfellen
 Relasjonsbygging, grundig planlegging og en tydelig arbeidsstruktur er viktig i prosjektets oppstartsfase. Samtidig kan tidspress gjøre det vanskelig for Erling å prioritere disse aktivitetene. Jacobsen (2016, s. 47) beskriver hvordan knapphet på tid og ressurser kan begrense prosjektlederes arbeid med å utvikle felles verdier i prosjektgruppen. For Erling kan dette innebære at oppgaver som gir synlige resultater, prioriteres foran samtaler om forventninger, ansvar og samarbeid. Dette kan fremstå som effektivt på kort sikt, men kan føre til misforståelser som krever tid å håndtere senere.
 
 En annen utfordring er planleggingsfellen. Denne innebærer at man undervurderer tiden det tar å gjennomføre et prosjekt, selv når tidligere erfaringer viser at tidsplaner kan være vanskelige å holde (Jacobsen, 2016, s. 47). I Erlings prosjekt kan en for optimistisk tidsplan føre til at det settes av for lite tid til testing, avklaringer og samarbeid mellom fagpersonene. Dersom oppgavene tar lengre tid enn forventet, kan presset øke. Det kan igjen bli vanskeligere å prioritere relasjonsbygging og god kommunikasjon.
