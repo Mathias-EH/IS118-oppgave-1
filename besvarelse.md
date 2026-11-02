@@ -64,6 +64,4 @@ Samlet sett bør Erling være hovedansvarlig på å danne kontinuerlig kommunika
 
 ### Referanseliste:
 
-Gjøsund, P., & Huseby, R. (2023). To eller flere: Basiskunnskaper i gruppepsykologi (4. utg.). Cappelen Damm Akademisk.
-
 Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
