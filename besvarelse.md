@@ -33,7 +33,14 @@ Sist, men ikke minst bør kontrakten beskrive håndtering av endringer, ettersom
 For å oppsummere tror vi dette vil kunne bidra til et mer strukturert og forutsigbart samarbeid mellom Erling og prosjekteieren. Tydelig ansvar, gjensidige forventninger, faste møter og avtalte rutiner for endringer kan styrke tilliten, redusere misforståelser og være med på å skape en bedre relasjon mellom dem underveis i prosjektet. 
 
 ## 4. Konflikthåndtering
-Konflikter kan oppstå på grunn av uengiheter underveis i prosjeket, dette kan skje grunnet heterogenitet, sterkt resultatfokus eller manglende kjennskap, tillit eller tidspress, dette støttes opp mot (Jacobsen, 2016, s. 61). En proaktiv strategi for prosjektleder Erling kan være å ha mange møtepunkter der problemer eller utfordringer kan drøftes og diskuteres i felleskap av teammedlemmene, her vil det være mulighet for å diskutere i hvilke felter eller faser medlemmene mener at uklarhet, konflikt eller uenigheter vil opppstå. Dette åpner rom for å håndtere uenigheter eller konflikter før de eventuelt oppstår, gjennom problemløsing eller kompromiss, dette styrkes av (Jacobsen, 2016, s. 68)
+Konflikter kan oppstå på grunn av uengiheter underveis i prosjeket, dette kan skje grunnet heterogenitet, sterkt resultatfokus eller manglende kjennskap, tillit eller tidspress, dette støttes opp mot (Jacobsen, 2016, s. 61). 
+
+En proaktiv strategi for prosjektleder Erling kan være å ha mange møtepunkter der problemer eller utfordringer kan drøftes og diskuteres i felleskap av teammedlemmene, her vil det være mulighet for å diskutere i hvilke felter eller faser medlemmene mener at uklarhet, konflikt eller uenigheter vil opppstå. Dette åpner rom for å håndtere uenigheter eller konflikter før de eventuelt oppstår, gjennom problemløsing eller kompromiss, dette styrkes av (Jacobsen, 2016, s. 68)
+
+Men ifølge (Jacobsen, 2016, s. 66) er det høyst sansynlig at en konflikt vil oppstå i et prosjektarbeid uansett, så man må lære seg å håndtere den. Dersom en persomkonflikt oppstår blant medlemmene i Erlings prosjekt, vil vi anbefale følgende; Koble til en tredjepart som kan være med å vurdere de forskjellige synspunktene som eventuellt skulle komme frem i konflikten, å avgjøre hva som skal gjennomføres. På den andre siden, dersom det skulle oppstå en sakskonflikt i prosjektet, vil det være avgjørende at Erling tar ansvar i å veilede teamet mot en varig løsning, som støtter prosjekts leveranse. 
+
+
+
 
 
 
