@@ -57,7 +57,6 @@ Samtidig må Erling balansere behovet for planlegging med behovet for å komme i
 
 Dersom tidsrammen blir presset, bør Erling avklare prioriteringer med prosjekteieren fremfor å forutsette at gruppen bare kan arbeide raskere. Slik kan han skape rom for nødvendige justeringer og samtidig opprettholde en felles forståelse av prosjektets mål. Dette kan bidra til at fremdrift, kvalitet og samarbeid blir vurdert samlet gjennom prosjektet.
 
-
 ## 6. God kommunikasjon
 
 
