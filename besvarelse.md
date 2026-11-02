@@ -39,11 +39,7 @@ En proaktiv strategi for prosjektleder Erling kan være å ha mange møtepunkter
 
 Men ifølge (Jacobsen, 2016, s. 66) er det høyst sansynlig at en konflikt vil oppstå i et prosjektarbeid uansett, så man må lære seg å håndtere den. Dersom en persomkonflikt oppstår blant medlemmene i Erlings prosjekt, vil vi anbefale følgende; Koble til en tredjepart som kan være med å vurdere de forskjellige synspunktene som eventuellt skulle komme frem i konflikten, å avgjøre hva som skal gjennomføres. På den andre siden, dersom det skulle oppstå en sakskonflikt i prosjektet, vil det være avgjørende at Erling tar ansvar i å veilede teamet mot en varig løsning, som støtter prosjekts leveranse. 
 
-
-
-
-
-
+Ved å føre proaktive strategier kan Erling og prosjektteamet unngå noen av konfliktene, uklarhetene og uenighetene tidlig, men det vil alltids ligge latente konflikter i et prosjektsamarbeid som Jacobsen sier i (Jacobsen, 2016, s. 66). Dette betyr ikke at konflikter ikke er håndterbare om de skulle oppstå plutselig eller ligge ulmende over tid, her kan andre strategier som er mer reaktive brukes som for eksempel ettergivenhet eller kompromiss brukes.
 
 
 
